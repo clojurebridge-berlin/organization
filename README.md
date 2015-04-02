@@ -14,3 +14,6 @@ This repo is used by the orga-team to plan and coordinate.
 
 ### Coaching
 - Sign up for coaching [here](https://docs.google.com/forms/d/1tZXTsTPkeHA4EAW2pMVk_CzW1FkSxmGRWrgdvkPI__4/viewform?c=0&w=1)!
+
+### Sponsoring
+- If you think this workshop is great don't hesitate to help [sponsoring](https://github.com/clojurebridge-berlin/organization/issues/2) the event! 
