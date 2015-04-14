@@ -17,3 +17,6 @@ This repo is used by the orga-team to plan and coordinate.
 
 ### Sponsoring
 - If you think this workshop is great don't hesitate to help [sponsoring](https://github.com/clojurebridge-berlin/organization/issues/2) the event! 
+
+### Twitter
+- We will use this account: https://twitter.com/clojureberlin
