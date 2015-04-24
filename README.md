@@ -10,7 +10,11 @@ This repo is used by the orga-team to plan and coordinate.
 
 ### Location
 
-- 2 Meeting Rooms from Dawanda in Ahoy-CoWorking-Space (Berlin - Charlottenburg)
+- 6 Wunderkinder GmbH  
+Karl-Liebknecht-Straße 32  
+10178 Berlin  
+Floor: 6-7 (event will be hosted at floor 6)  
+Public transport: S/U Alexanderplatz
 
 ### Coaching
 - Sign up for coaching [here](https://docs.google.com/forms/d/1tZXTsTPkeHA4EAW2pMVk_CzW1FkSxmGRWrgdvkPI__4/viewform?c=0&w=1)!
