@@ -2,6 +2,8 @@
 Currently we are planning [ClojureBridge](http://www.clojurebridge.org/) Berlin!
 Which is a free, beginner-friendly Clojure programming workshop for women.  
 
+Find our event here: http://www.clojurebridge.org/events/2015-07-10-berlin
+
 This repo is used by the orga-team to plan and coordinate.
 
 ### Date
