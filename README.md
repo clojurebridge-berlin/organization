@@ -21,8 +21,24 @@ Public transport: S/U Alexanderplatz
 ### Coaching
 - Sign up for coaching [here](https://docs.google.com/forms/d/1tZXTsTPkeHA4EAW2pMVk_CzW1FkSxmGRWrgdvkPI__4/viewform?c=0&w=1)!
 
-### Sponsoring
-- If you think this workshop is great don't hesitate to help [sponsoring](https://github.com/clojurebridge-berlin/organization/issues/2) the event! 
-
 ### Twitter
 - We will use this account: https://twitter.com/clojureberlin
+
+### Sponsoring
+- If you think this workshop is great don't hesitate to help [sponsoring](https://github.com/clojurebridge-berlin/organization/issues/2) the event! 
+- 
+**Updated at** 2015-05-06
+
+What  | Cost
+------------- | -------------
+Friday night food  | 400 Euro
+Friday location  | **6wunderkinder**
+Saturday location  | **6wunderkinder**
+Saturday lunch  | 500 Euro
+Saturday drinks (water and beer only + local coffee machine) | **6wunderkinder**
+Saturday nonalcoholic drinks (lemonade, mate) | **DaWanda** (200 Euro )
+T-shirts | **Ticketsolve** (350 Euro)
+1000 temporary tattoos | 500 Euro
+stickers (as many as we can get within our budget)  | 100 Euro
+50 cupcakes with logo  | 70 Euro
+**TOTAL** | **2100 Euro**
