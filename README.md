@@ -26,7 +26,7 @@ Public transport: S/U Alexanderplatz
 
 ### Sponsoring
 - If you think this workshop is great don't hesitate to help [sponsoring](https://github.com/clojurebridge-berlin/organization/issues/2) the event! 
-- 
+
 **Updated at** 2015-05-06
 
 What  | Cost
