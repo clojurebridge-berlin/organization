@@ -27,7 +27,10 @@ Public transport: S/U Alexanderplatz
 ### Sponsoring
 - If you think this workshop is great don't hesitate to help [sponsoring](https://github.com/clojurebridge-berlin/organization/issues/2) the event! 
 
-**Updated at** 2015-05-06
+**Updated at** 2015-05-07
+
+**Github** is on board for 500 Euro.
+Waiting for **Soundcloud** in order to decide who sponsors what.
 
 What  | Cost
 ------------- | -------------
