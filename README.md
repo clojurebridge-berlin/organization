@@ -29,7 +29,6 @@ Public transport: S/U Alexanderplatz
 
 **Updated at** 2015-05-07
 
-**Github** is on board for 500 Euro.
 Waiting for **Soundcloud** in order to decide who sponsors what.
 
 What  | Cost
@@ -37,7 +36,7 @@ What  | Cost
 Friday night food  | 400 Euro
 Friday location  | **6wunderkinder**
 Saturday location  | **6wunderkinder**
-Saturday lunch  | 500 Euro
+Saturday lunch  | **Github** (500 Euro)
 Saturday drinks (water and beer only + local coffee machine) | **6wunderkinder**
 Saturday nonalcoholic drinks (lemonade, mate) | **DaWanda** (200 Euro )
 T-shirts | **Ticketsolve** (350 Euro)
