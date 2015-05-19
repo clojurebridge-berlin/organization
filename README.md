@@ -41,6 +41,6 @@ Saturday drinks (water and beer only + local coffee machine) | **6wunderkinder**
 Saturday nonalcoholic drinks (lemonade, mate) | **DaWanda** (200 Euro )
 T-shirts | **Ticketsolve** (350 Euro)
 1000 temporary tattoos | 500 Euro
-stickers (as many as we can get within our budget)  | 100 Euro
-50 cupcakes with logo  | 70 Euro
+stickers (as many as we can get within our budget)  | **Babbel** (100 Euro)
+50 cupcakes with logo  | **Babbel** (70 Euro)
 **TOTAL** | **2100 Euro**
