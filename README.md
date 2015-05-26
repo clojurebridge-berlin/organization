@@ -33,7 +33,7 @@ Waiting for **Soundcloud** in order to decide who sponsors what.
 
 What  | Cost
 ------------- | -------------
-Friday night food  | 400 Euro
+Friday night food  | **InnoQ** (400 Euro)
 Friday location  | **6wunderkinder**
 Saturday location  | **6wunderkinder**
 Saturday lunch  | **Github** (500 Euro)
