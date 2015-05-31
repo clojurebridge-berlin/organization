@@ -29,7 +29,7 @@ Public transport: S/U Alexanderplatz
 
 **Updated at** 2015-05-07
 
-Waiting for **Soundcloud** in order to decide who sponsors what.
+**Soundcloud** in with **400 Euro**.
 
 What  | Cost
 ------------- | -------------
@@ -43,4 +43,5 @@ T-shirts | **Ticketsolve** (350 Euro)
 1000 temporary tattoos | 500 Euro
 stickers (as many as we can get within our budget)  | **Babbel** (100 Euro)
 50 cupcakes with logo  | **Babbel** (70 Euro)
+buffer money (posters, post-its, snacks) | 100 Euro
 **TOTAL** | **2100 Euro**
