@@ -38,8 +38,8 @@ Saturday lunch  | **Github** (500 Euro)
 Saturday drinks (water and beer only + local coffee machine) | **6wunderkinder**
 Saturday nonalcoholic drinks (lemonade, mate) | **DaWanda** (200 Euro )
 T-shirts | **Ticketsolve** (350 Euro)
-1000 temporary tattoos | 500 Euro
+1000 temporary tattoos | 500 Euro :warning:
 stickers (as many as we can get within our budget)  | **Babbel** (100 Euro)
 50 cupcakes with logo  | **Babbel** (70 Euro)
-buffer money (posters, post-its, snacks) | 100 Euro
+buffer money (posters, post-its, snacks) | 100 Euro :warning:
 **TOTAL** | **2100 Euro**
