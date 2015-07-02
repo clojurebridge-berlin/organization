@@ -51,8 +51,8 @@ Hier sind noch ein paar Hinweise:
 
 * Wir haben nur 30 Plätze und eine Warteliste. Wenn du doch nicht mehr kommen kannst, sag uns bitte Bescheid, damit wir den Platz wieder vergeben können.
 
-* Das InstallFest am Freitag ist verplichtend. Wir werden all die Software installieren, die wir brauchen.
-Dazu ist es eine gute Gelegenheit andere Teilnehmerinnen und Coaches kennenzulernen.
+* Das InstallFest am Freitag ist verplichtend. Wir werden die Software installieren, die wir brauchen.  
+Es ist auch eine gute Gelegenheit andere Teilnehmerinnen und Coaches kennenzulernen.
 Es wird vegane und vegetarische Pizza und Getränke geben!!
 
 * Auch am Samstag gibt es veganes und vegetarisches Mittagessen sowie ein paar Snacks zum Frühstück und natürlich Getränke.
