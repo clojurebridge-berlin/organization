@@ -11,9 +11,8 @@ We have a full house of 35 attendees, so we need all your hands on deck to make 
 
 
 Here are a few things you should do this week to prepare for the workshop:
-* Double-check the event times: 
-==InstallFest Friday, July 10,  18:00 - 20:30 Vegan/vegetarian dinner and drinks provided. 
-
+* Double-check the event times:  
+==InstallFest Friday, July 10,  18:00 - 20:30 Vegan/vegetarian dinner and drinks provided.  
 ==Workshop Saturday, July 11, 9:00 - 18:00 Small breakfast & vegan/vegetarian lunch and drinks provided. 
 
 * If you haven't yet, please make sure you read through the entire curriculum and get familiar with the Capstone application we'll be building in the workshop. 
