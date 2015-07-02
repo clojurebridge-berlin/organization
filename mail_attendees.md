@@ -7,11 +7,11 @@ We are so excited too see you at the ClojureBridge workshop July 10-11.
 Please be on time on Friday at 18.00 and on Saturday at 9:00.
 
 The location is:
-6 Wunderkinder office, Karl-Liebknecht-Straße 32, 10178 Berlin 
-Attached you find a picture of the venue entrance. 
-Due to security reasons we need to shuttle all attendees from the groundfloor to the 7th floor.
-We will try to make this as fast and comfortable as possible for you.
-There will be a phone number downstairs on a poster to call us if you have questions.
+6 Wunderkinder office, Karl-Liebknecht-Straße 32, 10178 Berlin  
+Attached you find a picture of the venue entrance.  
+Due to security reasons we need to shuttle all attendees from the groundfloor to the 7th floor.  
+We will try to make this as fast and comfortable as possible for you.  
+There will be a phone number downstairs on a poster to call us if you have questions.  
 
 Here are a few things to keep in mind:
 
