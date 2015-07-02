@@ -3,7 +3,7 @@
 
 Dear ClojureBridge attendees,
 
-We are so excited too see you at the ClojureBridge workshop July 10-11.
+We are so excited to see you at the ClojureBridge workshop July 10-11.
 Please be on time on Friday at 18.00 and on Saturday at 9:00.
 
 The location is:
