@@ -7,7 +7,7 @@ We are so excited too see you at the ClojureBridge workshop July 10-11.
 Please be on time on Friday at 18.00 and on Saturday at 9:00.
 
 The location is:
-6 Wunderkinder office, GmbH Karl-Liebknecht-Straße 32, 10178 Berlin 
+6 Wunderkinder office, Karl-Liebknecht-Straße 32, 10178 Berlin 
 Attached you find a picture of the venue entrance. 
 Due to security reasons we need to shuttle all attendees from the groundfloor to the 7th floor.
 We will try to make this as fast and comfortable as possible for you.
@@ -40,8 +40,8 @@ Liebe ClojureBridge-Teilnehmerinnen,
 wir freuen uns, euch bald beim ClojureBridge-Workshop am 10. und 11. Juli kennenzulernen.
 Bitte seid pünktlich am Freitag um 18.00 Uhr und am Samstag um 9:00 Uhr.
 
-Die Ort des Workshops ist:  
-6 Wunderkinder office, GmbH Karl-Liebknecht-Straße 32, 10178 Berlin  
+Der Ort des Workshops ist:  
+6 Wunderkinder office, Karl-Liebknecht-Straße 32, 10178 Berlin  
 Im Anhang ist ein Bild mit dem Eingang des Büro's.  
 Aus Sicherheitsgründen müssen wir euch per Shuttle-System in den 7. Stock bringen.  
 Wir hoffen, dass das so schnell und angenehm wie möglich vonstatten geht.  
