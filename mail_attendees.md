@@ -27,7 +27,7 @@ We'll have free vegan/vegetarian pizza and drinks available.
 If you'd like to bring your own food, you're welcome to do so. 
 We'll have a fridge, dishes & eating utensils on hand.
 
-* Food, drinks and the whole workshop is free! Thanks to our awesome sponsors <3 !
+* We can offer food, drinks and the whole workshop for free! Thanks to our awesome sponsors <3 !
 
 In the meantime, if you have any questions, please contact us at clojurebridge.berlin@gmail.com
 
