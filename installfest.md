@@ -10,4 +10,4 @@ https://sekao.net/nightcode/
 
 Download jar and run it.
 
-It includes [leinigen](http://leiningen.org/) and Clojure.
+It includes [leiningen](http://leiningen.org/) and Clojure.
