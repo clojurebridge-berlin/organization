@@ -253,7 +253,7 @@ ClojureBridge Berlin Team
 
 **Subject line:** Important Information for the ClojureBridge Berlin Workshop! - Wichtige Informationen!
 
-**ENGLISH VERSION**
+**ENGLISH VERSION**  
 Hello!
 
 Last weekend the Clojurebridge workshop you applied for took place!
@@ -272,7 +272,7 @@ Best wishes,
 ClojureBridge Berlin Team
 
 ---------------------
-**DEUTSCHE VERSION**
+**DEUTSCHE VERSION**  
 Hallo,
 
 letztes Wochenende fand unser ClojureBridge Workshop statt, für den du dich angemeldet hattest.
