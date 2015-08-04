@@ -105,7 +105,7 @@ ClojureBridge Berlin Team
 
 -------------------------
 
-DEUTSCHE VERSION
+**DEUTSCHE VERSION**
 
 Liebe ClojureBridge-Teilnehmerinnen,
 
@@ -140,6 +140,7 @@ ClojureBridge Berlin Team
 
 **Subject line:** ClojureBridge berlin - feedback survey and learning groups  
 
+**ENGLISH VERSION**
 Dear attendees of last weekends ClojureBridge workshop,  
 First of all we want to thank all of you for joining last weekends ClojureBridge workshop!  
 We hope you had a lot of fun learning new things and helping others doing so. We certainly did.  
@@ -189,7 +190,7 @@ ClojureBridge Berlin Team
 
 ----------------------------------------------------------------------------------------
 
-DEUTSCHE VERSION:
+**DEUTSCHE VERSION:**
 
 LiebeTeilnehmerinnen und Teilnehmer des ClojureBridge Workshops,
 
@@ -252,7 +253,7 @@ ClojureBridge Berlin Team
 
 **Subject line:** Important Information for the ClojureBridge Berlin Workshop! - Wichtige Informationen!
 
-ENGLISH VERSION
+**ENGLISH VERSION**
 Hello!
 
 Last weekend the Clojurebridge workshop you applied for took place!
@@ -271,7 +272,7 @@ Best wishes,
 ClojureBridge Berlin Team
 
 ---------------------
-DEUTSCHE VERSION
+**DEUTSCHE VERSION**
 Hallo,
 
 letztes Wochenende fand unser ClojureBridge Workshop statt, für den du dich angemeldet hattest.
