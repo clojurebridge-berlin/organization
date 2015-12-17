@@ -23,13 +23,13 @@ https://clojurebridge-berlin.github.io/
 - [22 & 13 January 2016](http://www.clojurebridge.org/events/2016-01-22-berlin)
 
 ### Contact
-[Arne](https://twitter.com/plexus)
-[Bettina](https://twitter.com/thatbettina)
-[Franziska](https://twitter.com/franschm)
-[Jelle](https://twitter.com/jellea)
-[Lisa](http://lislis.de/)
-[Malwine](https://twitter.com/malweene)
-[Martin](https://twitter.com/martinklepsch)
-[Nicola](https://twitter.com/nicsnet)
+[Arne](https://twitter.com/plexus)  
+[Bettina](https://twitter.com/thatbettina)  
+[Franziska](https://twitter.com/franschm)  
+[Jelle](https://twitter.com/jellea)  
+[Lisa](http://lislis.de/)  
+[Malwine](https://twitter.com/malweene)  
+[Martin](https://twitter.com/martinklepsch)  
+[Nicola](https://twitter.com/nicsnet)  
 
 Mail: clojurebridge.berlin@gmail.com
