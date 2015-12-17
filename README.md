@@ -10,11 +10,14 @@ If you organize an event yourself please feel free to use the information you fi
 - [Fact book of our past workshop](https://github.com/clojurebridge-berlin/organization/blob/master/2015-07-11-factbook.md)
 - [All Mails in English and German](https://github.com/clojurebridge-berlin/organization/tree/master/email_templates).
 
-### Past Events
+### Website
+https://clojurebridge-berlin.github.io/
 
-10./11. July 2015:
-- http://www.clojurebridge.org/events/2015-07-10-berlin
-- https://clojurebridge-berlin.github.io/
+### Past Events
+- [10. & 11. July 2015](http://www.clojurebridge.org/events/2015-07-10-berlin)
+
+### Upcoming Event
+- [22 & 13 January 2016](http://www.clojurebridge.org/events/2016-01-22-berlin)
 
 ### Twitter
 - We will use this account: https://twitter.com/clojureberlin
