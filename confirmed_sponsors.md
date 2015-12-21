@@ -3,8 +3,9 @@
 | company  | contribution| |
 |----------|-------------|------|
 | Wunderlist/ Microsoft | - | use of the offices |
-| Fy | | drinks|
+| Fy | (2015: 220 Euros) | drinks|
 | Red Pineapple Media | 200 Euros | |
 | Babbel | 200 Euros | |
 | Metosin | 200 Euros | |
 | Ticketsolve | 360 Euros | Catering InstallFest |
+|**Total**| **~1180 Euros** | |
