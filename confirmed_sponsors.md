@@ -8,4 +8,5 @@
 | Babbel | 200 Euros | |
 | Metosin | 200 Euros | |
 | Ticketsolve | 360 Euros | Catering InstallFest |
-|**Total**| **~1180 Euros** | |
+| bitcrowd | 500 Euro | Catering workshop |
+|**Total**| **~1680 Euros** | |
