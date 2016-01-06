@@ -12,7 +12,7 @@ Please respond to this email ASAP confirming or declining, just a simple “I’
 
 Hello and welcome aboard!  
 You’re one of the chosen ones to participate in our ClojureBridge workshop! We unfortunately had to select attendees due to the high amount of signups and limited space.
-We would like to know upfront whether you’re still able to make it on the __ and __ th of _____ and we can order a shirt tailored for you. If you can’t come, we would like to give somebody else the chance, so please respond before  _______ !
+We would like to know upfront whether you’re still able to make it on the __ and __ th of _____. If you can’t come, we would like to give somebody else the chance, so please respond before  _______ !
 
 <Optional: information about Euroclojure grants>
 ClojureBridge Berlin Team
