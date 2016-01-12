@@ -20,7 +20,8 @@ Yes.
 
 * What is a suitable space, if any, to put children and a babysitter?
 
-There are in theory few smaller rooms on the same floor. However, we have to double check whether we can offer adequate space for child care. (TODO)
+There are in theory few smaller rooms on the same floor. However, we have to double check whether we can offer adequate space for child care.
+ETA: No child care was requested by attendees or coaches this time.
 
 ### Security
 
@@ -108,7 +109,7 @@ Catering is not handled by Wunderlist.
 
 * If there are snacks/drinks at the office, are these available to people at the workshop?
 
-TODO: I will double check regarding this. (Especially with regards to coffee).
+We can use the water and coffee.
 
 ### Cleanup
 
@@ -151,7 +152,7 @@ Franziska will attend as host/co-organizers and will probably say a few words to
 
 * If no, do they have any specific projects they would like us to mention when we’re giving the plug?
 
-TODO: I will double check regarding this.
+No
 
 * Would they like to provide company-branded stickers for Installfest?
 
@@ -161,4 +162,4 @@ TODO: I will double check regarding this.
 
 TODO: I will double check regarding this.
 
-Taken from (here)[https://github.com/ClojureBridge/organizing/blob/master/Hosting-venue-questions.md].
+Taken from [here](https://github.com/ClojureBridge/organizing/blob/master/Hosting-venue-questions.md).
