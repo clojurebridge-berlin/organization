@@ -63,6 +63,41 @@ Bitte schau deswegen öfter in deine Mails in den nächsten Tagen
 Liebe Grüße!  
 ClojureBridge Berlin Team
 
+--------------------------------------
+--------------------------------------
+
+### Waitinglist Reminder
+
+**Subject line:** Reminder | Erinnerung
+
+**ENGLISH VERSION:**
+
+Hey there!
+
+This is a reminder for you to please confirm your attendance for the workshop next weekend (January 22nd and 23rd) by midnight tonight. A simple reply email with "I'm attending!" is enough.
+
+If we don't receive a reply by then we'll give your spot to applicants in the waiting list.
+
+
+Cheers,
+the ClojureBridge Berlin Team
+
+----------------
+
+**DEUTSCHE VERSION:**
+
+Hallo hallo!
+
+Diese Email soll dich daran erinnern deine Teilnahme für den Workshop nächstes Wochenende (22. und 23. Januar) zu bestätigen. Eine einfache Antwortemail mit "Ich bin dabei!" reicht aus.
+
+Falls wir keine Antwort erhalten bekommt eine Bewerberin von der Warteliste deinen Platz.
+
+Viele Grüße,
+das ClojureBridge Berlin Team
+
+
+
+
 ---------------------------------------
 ---------------------------------------
 
