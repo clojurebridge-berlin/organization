@@ -74,7 +74,7 @@ ClojureBridge Berlin Team
 
 Hey there!
 
-This is a reminder for you to please confirm your attendance for the workshop next weekend (January 22nd and 23rd) by midnight tonight. A simple reply email with "I'm attending!" is enough.
+This is a reminder for you to please confirm your attendance for the workshop next weekend (______ and ____) by midnight tonight. A simple reply email with "I'm attending!" is enough.
 
 If we don't receive a reply by then we'll give your spot to applicants in the waiting list.
 
@@ -88,13 +88,41 @@ the ClojureBridge Berlin Team
 
 Hallo hallo!
 
-Diese Email soll dich daran erinnern deine Teilnahme für den Workshop nächstes Wochenende (22. und 23. Januar) zu bestätigen. Eine einfache Antwortemail mit "Ich bin dabei!" reicht aus.
+Diese Email soll dich daran erinnern deine Teilnahme für den Workshop nächstes Wochenende (___ und ____) zu bestätigen. Eine einfache Antwortemail mit "Ich bin dabei!" reicht aus.
 
 Falls wir keine Antwort erhalten bekommt eine Bewerberin von der Warteliste deinen Platz.
 
 Viele Grüße,
 das ClojureBridge Berlin Team
 
+--------------------------------------
+--------------------------------------
+
+### Inviting from waiting list
+
+**ENGLISH VERSION:**
+
+Hello and welcome aboard!
+
+A few spaces opened up and we now want to invite you to the workshop on the ___ and ____.
+Please let us know as soon as possible (but ____ at the latest) if you can still make it on the said dates. A simple email reply with "I am attending!" is enough.
+
+Hopefully see you soon,
+ClojureBridge Berlin Team
+
+-------
+
+**DEUTSCHE VERSION:**
+
+Hallo und willkommen an Bord!
+
+Einige Plätze sind frei geworden und wir wollen dich jetzt gern zum Workshop am ___ und _____ einladen.
+
+Bitte sag uns so bald wie möglich (spätestens bis ______) Bescheid ob du immer noch teilnehmen kannst. Eine einfache Antwortemail mit "Ich bin dabei!" ist genug.
+
+Bis hoffentlich bald,
+
+ClojureBridge Berlin Team
 
 
 
