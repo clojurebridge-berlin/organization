@@ -1,7 +1,7 @@
 ### Sponsors
 
 | company                 | contribution (Euro) |                      | payment/goods received | forwarded to travis |
-|-------------------------+---------------------+----------------------+------------------------+---------------------|
+|-------------------------|---------------------|----------------------|------------------------|---------------------|
 | Wunderlist/ Microsoft   |                   - | use of the offices   | OK                     | n/a                 |
 | Dawanda                 |                   - | drinks (~220)        | direct order           | n/a                 |
 | Purefunctional.tv       |                   - | Access to LispCasts  | OK                     | n/a                 |
@@ -11,10 +11,10 @@
 | LambdaWerk              |                 250 |                      | OK                     | OK                  |
 | Fy                      |                 250 | drinks               |                        |                     |
 | Babbel                  |                200? |                      |                        |                     |
-| Ticketsolve             |                 360 | Catering InstallFest |                        |                     |
+| Ticketsolve             |                 360 | Catering InstallFest | 2016-01-18             |                     |
 | Soundcloud              |                360? |                      |                        |                     |
 | Zalando                 |                 500 |                      |                        |                     |
-|-------------------------+---------------------+----------------------+------------------------+---------------------|
+|-------------------------|---------------------|----------------------|------------------------|---------------------|
 | **Total**               |           **~2820** |                      |                        |                     |
 | Left over in Travis Fnd |              224.56 |                      |                        |                     |
 | **Total & Reserve**     |        **~3044.56** |                      |                        |                     |
