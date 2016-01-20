@@ -116,13 +116,44 @@ ClojureBridge Berlin Team
 
 Hallo und willkommen an Bord!
 
-Einige Plätze sind frei geworden und wir wollen dich jetzt gern zum Workshop am ___ und _____ einladen.
+Einige Plätze sind frei geworden und wir wollen dich jetzt gern zum WorksClojureBridge Workshop in Berlin - We've passed on your spot. Wir haben deinen Platz weitergebenhop am ___ und _____ einladen.
 
 Bitte sag uns so bald wie möglich (spätestens bis ______) Bescheid ob du immer noch teilnehmen kannst. Eine einfache Antwortemail mit "Ich bin dabei!" ist genug.
 
 Bis hoffentlich bald,
 
 ClojureBridge Berlin Team
+
+--------------------------------------
+--------------------------------------
+
+### To applicants who didn't get back
+
+**Subject line:** ClojureBridge Workshop in Berlin - We've passed on your spot. Wir haben deinen Platz weitergeben
+
+***ENGLISH VERSION***
+
+Hello there,
+
+looks like you didn't get back to us in time to verify you're still coming to the workshop.
+Since we have a lot more applicants eager to join on the waitinglist, we passed on your spot to one of them.
+
+We hope you understand this and maybe see you next time!
+ClojureBridge Berlin team
+
+------
+
+**GERMAN VERSION**
+
+Hallo hallo,
+
+es sieht so aus als ob du dich nicht rechtzeitig gemeldet hast um zu bestätigen, dass du am Workshop teilnimmst.
+Weil wir noch sehr viele Bewerberinnen auf der Warteliste haben, die auch unbedingt teilnehmen wollen, haben wir deinen Platz an eine von ihnen weitergegeben.
+
+Wir hoffen du verstehst das und vielleicht sehen wir uns beim nächsten mal!
+ClojureBridge Berlin Team
+
+-- 
 
 
 
