@@ -20,7 +20,7 @@ https://clojurebridge-berlin.github.io/
 - [10. & 11. July 2015](http://www.clojurebridge.org/events/2015-07-10-berlin)
 
 ### Upcoming Event
-- [22 & 13 January 2016](http://www.clojurebridge.org/events/2016-01-22-berlin)
+- [22 & 23 January 2016](http://www.clojurebridge.org/events/2016-01-22-berlin)
 
 ### Contact
 [Arne](https://twitter.com/plexus)  
