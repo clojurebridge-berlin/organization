@@ -39,6 +39,7 @@ Copy it completely and work in the copy.
 13. Wander around the groups. Make sure people feel good. If there are problems, technical or personal take action. Ask floating coaches to jump in or help out. Keep people updated and informed. Remind them to take breaks, keep hydrated and happy.
 
 **After the event:**
+
 14. Send a [feedback/wrap-up mail](https://github.com/clojurebridge-berlin/organization/blob/master/email_templates/all_mails_to_attendees.md#mail-4---feedback-and-wrapup) after the event including the information about learning groups and meetups.
 
 15. Report feedback back to the other organizers in the next organizer meeting.
