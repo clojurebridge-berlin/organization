@@ -1,6 +1,6 @@
 # All mails to our attendees
 
-This is a list of all mails that we send to attendees. We always send them in English and German.
+`This is a list of all mails that we send to attendees. We always send them in English and German.`
 
 ### Mail 1 - To the selected
 
@@ -14,6 +14,8 @@ Hello and welcome aboard!
 You’re one of the chosen ones to participate in our ClojureBridge workshop! We unfortunately had to select attendees due to the high amount of signups and limited space.
 We would like to know upfront whether you’re still able to make it on the __ and __ th of _____. If you can’t come, we would like to give somebody else the chance, so please respond before  _______ !
 
+If you are going to attend we will send you another mail with more details.
+
 <Optional: information about Euroclojure grants>
 ClojureBridge Berlin Team
 
@@ -26,6 +28,8 @@ Willkommen an Board!
 Du wurdest zur Teilnahme am ClojureBridge Workshop ausgewählt! Aufgrund der großen Nachfrage mussten wir die Teilnehmerinnen zufällig auswählen.
 Wir würden jetzt gerne wissen, ob du immer noch kommen kannst, am ___ . und ___ . _______.
 Wir bitten dich, uns deine Teilnahme oder Absage bis zum Sonntag, den _________ zu bestätigen. Sodass wir auch anderen, die auf der Warteliste stehen, eine Chance geben können.
+
+Wenn du dabei bist, schicken wir dir bald eine Mail mit mehr Details zum Event.
 
 <Optional: Information über Euroclosure Stipendien>
 Vielen Dank und bis bald!
