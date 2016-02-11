@@ -4,6 +4,8 @@
 
 **Selection:**
 
+We have a Google account you can receive access to from previous organizers. There you will find attendee documents and email correspondence.
+
 1. In our GoogleDrive:
 Leave the original table in its original state.
 Copy it completely and work in the copy.
@@ -36,4 +38,7 @@ Copy it completely and work in the copy.
 
 13. Wander around the groups. Make sure people feel good. If there are problems, technical or personal take action. Ask floating coaches to jump in or help out. Keep people updated and informed. Remind them to take breaks, keep hydrated and happy.
 
-14. Send a [feedback/wrap-up mail](https://github.com/clojurebridge-berlin/organization/blob/master/email_templates/all_mails_to_attendees.md#mail-4---feedback-and-wrapup) after the event.
+**After the event:**
+14. Send a [feedback/wrap-up mail](https://github.com/clojurebridge-berlin/organization/blob/master/email_templates/all_mails_to_attendees.md#mail-4---feedback-and-wrapup) after the event including the information about learning groups and meetups.
+
+15. Report feedback back to the other organizers in the next organizer meeting.
