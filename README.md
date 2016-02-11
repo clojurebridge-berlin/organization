@@ -21,7 +21,7 @@ https://clojurebridge-berlin.github.io/
 - [22 & 23 January 2016](http://www.clojurebridge.org/events/2016-01-22-berlin)
 
 ### Upcoming Event
-Coming soon. For updates check our [website](http://www.clojurebridge.org/).
+Coming soon. For updates check our [website](http://clojurebridge-berlin.github.io).
 
 ### Contact
 [Arne](https://twitter.com/plexus)  
