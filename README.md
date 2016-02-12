@@ -7,7 +7,7 @@ In our issues you find all information about our sponsors, finance and decisions
 
 
 If you organize an event yourself please feel free to use the information you find in our repo:
-- [Fact book of our past workshop](https://github.com/clojurebridge-berlin/organization/blob/master/2015-07-11-factbook.md)
+- [Fact book of our past workshop](https://github.com/clojurebridge-berlin/organization/blob/master/2016-01-22-factbook.md)
 - [All Mails in English and German](https://github.com/clojurebridge-berlin/organization/tree/master/email_templates).
 
 ### Website
