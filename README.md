@@ -1,4 +1,4 @@
-# Clojure Bridge Berlin Organization 
+# Clojure Bridge Berlin Organization
 Currently we are planning [ClojureBridge](http://www.clojurebridge.org/) Berlin!
 Which is a free, beginner-friendly Clojure programming workshop for women.  
 
@@ -18,9 +18,10 @@ https://clojurebridge-berlin.github.io/
 
 ### Past Events
 - [10. & 11. July 2015](http://www.clojurebridge.org/events/2015-07-10-berlin)
+- [22 & 23 January 2016](http://www.clojurebridge.org/events/2016-01-22-berlin)
 
 ### Upcoming Event
-- [22 & 23 January 2016](http://www.clojurebridge.org/events/2016-01-22-berlin)
+Coming soon. For updates check our [website](http://clojurebridge-berlin.github.io).
 
 ### Contact
 [Arne](https://twitter.com/plexus)  
