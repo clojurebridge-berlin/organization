@@ -1,37 +1,4 @@
 
----------------------------------------
-
-### Mail 2 - Waitinglist
-
-**Subject line:** ClojureBridge Workshop in Berlin - You are on the waitinglist! Du bist auf der Warteliste!  
-
-**ENGLISH VERSION:**
-
-Dear applicant!  
-Thank you for your application for ClojureBridge Berlin.  
-You unfortunately didn’t make it through the first random picking of attendees. Unfortunately had to select attendees due to the high amount of signups and limited space.  
-But(!) this doesn’t mean you’re completely out of the picture yet! We’ve asked the selected attendees to confirm before Sunday.  
-Unconfirmed spots will be given away to people on the waiting list. So, keep an eye on your email inbox the coming week, so you’re able to confirm as soon as needed.
-
-ClojureBridge Berlin Team
-
----------------------------------------
-**DEUTSCHE VERSION:**  
-
-Liebe Bewerberin!  
-Vielen Dank für deine Bewerbung für ClojureBridge Berlin.  
-Du hast es im ersten Durchgang leider nicht auf die Liste der zufällig ausgewählten Teilnehmerinnen geschafft.  
-Aufgrund der großen Nachfrage mussten wir leider die Teilnehmerinnen zufällig auswählen.  
-Aber(!) das heißt nicht, dass es keine Chance mehr gibt! Alle ausgewählten Teilnehmerinnen müssen bis Sonntag bestätigen, dass sie teilnehmen werden.
-Wird ein Platz frei, werden wir dir sofort Bescheid sagen.
-
-Bitte schau deswegen öfter in deine Mails in den nächsten Tagen
-
-Liebe Grüße!  
-ClojureBridge Berlin Team
-
---------------------------------------
---------------------------------------
 
 ### Waitinglist Reminder
 
