@@ -1,41 +1,4 @@
-# All mails to our attendees
 
-`This is a list of all mails that we send to attendees. We always send them in English and German.`
-
-### Mail 1 - To the selected
-
-**Subject line:** ClojureBridge Workshop in Berlin - You are on board! Du bist dabei!  
-  
-**ENGLISH VERSION:**  
-Important:
-Please respond to this email ASAP confirming or declining, just a simple “I’m attending!” is already enough.
-
-Hello and welcome aboard!  
-You’re one of the chosen ones to participate in our ClojureBridge workshop! We unfortunately had to select attendees due to the high amount of signups and limited space.
-We would like to know upfront whether you’re still able to make it on the __ and __ th of _____. If you can’t come, we would like to give somebody else the chance, so please respond before  _______ !
-
-If you are going to attend we will send you another mail with more details.
-
-<Optional: information about Euroclojure grants>
-ClojureBridge Berlin Team
-
---------------------------------
-
-**DEUTSCHE VERSION:**  
-Wichtig: Bitte antworte so schnell wie möglich auf diese Mail. Ein einfaches "Ich bin dabei" reicht vollkommen.
-
-Willkommen an Board!
-Du wurdest zur Teilnahme am ClojureBridge Workshop ausgewählt! Aufgrund der großen Nachfrage mussten wir die Teilnehmerinnen zufällig auswählen.
-Wir würden jetzt gerne wissen, ob du immer noch kommen kannst, am ___ . und ___ . _______.
-Wir bitten dich, uns deine Teilnahme oder Absage bis zum Sonntag, den _________ zu bestätigen. Sodass wir auch anderen, die auf der Warteliste stehen, eine Chance geben können.
-
-Wenn du dabei bist, schicken wir dir bald eine Mail mit mehr Details zum Event.
-
-<Optional: Information über Euroclosure Stipendien>
-Vielen Dank und bis bald!
-ClojureBridge Berlin Team
-
----------------------------------------
 ---------------------------------------
 
 ### Mail 2 - Waitinglist
@@ -157,7 +120,7 @@ Weil wir noch sehr viele Bewerberinnen auf der Warteliste haben, die auch unbedi
 Wir hoffen du verstehst das und vielleicht sehen wir uns beim nächsten mal!
 ClojureBridge Berlin Team
 
--- 
+--
 
 
 
@@ -176,8 +139,8 @@ Please be on time on Friday at 18.00 and on Saturday at 9:00.
 
 The location is:
 <insert venue>
-Attached you find a picture of the venue entrance. 
-There will be a phone number downstairs on a poster to call us if you have questions. 
+Attached you find a picture of the venue entrance.
+There will be a phone number downstairs on a poster to call us if you have questions.
 
 Here are a few things to keep in mind:
 
@@ -210,16 +173,16 @@ Liebe ClojureBridge-Teilnehmerinnen,
 wir freuen uns, euch bald beim ClojureBridge-Workshop am 10. und 11. Juli kennenzulernen.
 Bitte seid pünktlich am Freitag um 18.00 Uhr und am Samstag um 9:00 Uhr.
 
-Der Ort des Workshops ist: 
+Der Ort des Workshops ist:
 <Location einfügen>
-Im Anhang ist ein Bild mit dem Eingang des Büros. 
-Unten am Eingang wirst du eine Telefon-Nummer finden, damit du uns im Notfall anrufen kannst. 
+Im Anhang ist ein Bild mit dem Eingang des Büros.
+Unten am Eingang wirst du eine Telefon-Nummer finden, damit du uns im Notfall anrufen kannst.
 
 Hier sind noch ein paar Hinweise:
 
 * Wir haben nur 30 Plätze und eine Warteliste. Wenn du doch nicht mehr kommen kannst, sag uns bitte Bescheid, damit wir den Platz wieder vergeben können.
 
-* Das InstallFest am Freitag ist verpflichtend. Wir werden die Software installieren, die wir brauchen. 
+* Das InstallFest am Freitag ist verpflichtend. Wir werden die Software installieren, die wir brauchen.
 Es ist auch eine gute Gelegenheit andere Teilnehmerinnen und Coaches kennenzulernen.
 Es wird vegane und vegetarische Pizza und Getränke geben!!
 
@@ -274,7 +237,7 @@ After you've joined the Slack team, ping @martinklepsch or @plexus to be invited
 ● Participate in the Chestnut forums. This is your private corner of the internet, where you can keep in touch, and continue learning.
 In contrast to Slack it works more like a forum on a mailing list basis. You should have received your invite via mail during the event.
 If not, we can invite you again. Just send us a mail.
-http://chestnut.aren.io/t/welcome-clojurebridge/52/1 
+http://chestnut.aren.io/t/welcome-clojurebridge/52/1
 
 ● Come to the Berlin Clojure meetup: http://www.meetup.com/Clojure-Berlin/events/222655704/
 The Berlin Clojure Community meets about once a month in changing locations for talks and socializing.
@@ -332,7 +295,7 @@ schreib' eine Nachricht an @martinklepsch oder @plexus um in den privaten Raum e
 Das ist euer privater Raum im Internet, wo ihr in Kontakt bleiben und euch austauschen könnt.
 Im Vergleich zu Slack sind die Foren eher wie eine Mailingliste aufgebaut.
 Eine Einladung solltest du nach dem Event per Email erhalten haben, wenn nicht, sag uns einfach kurz Bescheid.
-http://chestnut.aren.io/t/welcome-clojurebridge/52/1 
+http://chestnut.aren.io/t/welcome-clojurebridge/52/1
 
 ● Komm zum Berlin Clojure meetup: http://www.meetup.com/Clojure-Berlin/events/222655704/
 Die Berliner Clojure Community trifft sich einmal im Monat in sich ändernden Lokalitäten für Vorträge und anderweitigen Austausch.
