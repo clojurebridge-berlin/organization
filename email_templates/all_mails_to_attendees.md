@@ -1,32 +1,3 @@
-### Inviting from waiting list
-
-**ENGLISH VERSION:**
-
-Hello and welcome aboard!
-
-A few spaces opened up and we now want to invite you to the workshop on the ___ and ____.
-Please let us know as soon as possible (but ____ at the latest) if you can still make it on the said dates. A simple email reply with "I am attending!" is enough.
-
-Hopefully see you soon,
-ClojureBridge Berlin Team
-
--------
-
-**DEUTSCHE VERSION:**
-
-Hallo und willkommen an Bord!
-
-Einige Plätze sind frei geworden und wir wollen dich jetzt gern zum WorksClojureBridge Workshop in Berlin - We've passed on your spot. Wir haben deinen Platz weitergebenhop am ___ und _____ einladen.
-
-Bitte sag uns so bald wie möglich (spätestens bis ______) Bescheid ob du immer noch teilnehmen kannst. Eine einfache Antwortemail mit "Ich bin dabei!" ist genug.
-
-Bis hoffentlich bald,
-
-ClojureBridge Berlin Team
-
---------------------------------------
---------------------------------------
-
 ### To applicants who didn't get back
 
 **Subject line:** ClojureBridge Workshop in Berlin - We've passed on your spot. Wir haben deinen Platz weitergeben
