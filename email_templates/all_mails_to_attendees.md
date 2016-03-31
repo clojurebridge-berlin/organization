@@ -1,36 +1,3 @@
-### To applicants who didn't get back
-
-**Subject line:** ClojureBridge Workshop in Berlin - We've passed on your spot. Wir haben deinen Platz weitergeben
-
-***ENGLISH VERSION***
-
-Hello there,
-
-looks like you didn't get back to us in time to verify you're still coming to the workshop.
-Since we have a lot more applicants eager to join on the waitinglist, we passed on your spot to one of them.
-
-We hope you understand this and maybe see you next time!
-ClojureBridge Berlin team
-
-------
-
-**GERMAN VERSION**
-
-Hallo hallo,
-
-es sieht so aus als ob du dich nicht rechtzeitig gemeldet hast um zu bestätigen, dass du am Workshop teilnimmst.
-Weil wir noch sehr viele Bewerberinnen auf der Warteliste haben, die auch unbedingt teilnehmen wollen, haben wir deinen Platz an eine von ihnen weitergegeben.
-
-Wir hoffen du verstehst das und vielleicht sehen wir uns beim nächsten mal!
-ClojureBridge Berlin Team
-
---
-
-
-
----------------------------------------
----------------------------------------
-
 ### Mail 3 - Information before the event
 
 **Subject line:** Important Information for the ClojureBridge Berlin Workshop! - Wichtige Informationen!
