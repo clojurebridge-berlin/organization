@@ -9,20 +9,13 @@
 | Red Pineapple Media     |                 200 |                      | OK                     | OK                  | OK               |
 | bitcrowd                |                 500 | Catering workshop    | OK                     | OK                  | OK               |
 | LambdaWerk              |                 250 |                      | OK                     | OK                  | OK               |
-| Fy (Project J)          |                 250 | drinks               |                        | OK                  | OK               |
-| Babbel                  |                200? |                      |                        |                     |                  |
+| Fy (Project J)          |                 250 | drinks               | OK                     | OK                  | OK               |
+| Babbel                  |                 200 |                      | OK                     | OK                  |                  |
 | Ticketsolve             |                 360 | Catering InstallFest | 2016-01-18             | OK                  | OK               |
-| Soundcloud              |                360? |                      |                        |                     |                  |
-| Zalando                 |                 500 |                      |                        |                     |                  |
+| Soundcloud              |                 360 |                      | OK                     | OK                  | OK               |
+| Zalando                 |                 500 |                      | OK                     | OK                  |                  |
+| private                 |                 120 |                      | OK                     | OK                  |                  |
 |-------------------------+---------------------+----------------------+------------------------+---------------------+------------------|
-| **Total**               |           **~2820** |                      |                        |                     |                  |
+| **Total**               |            **2940** |                      |                        |                     |                  |
 | Left over in Travis Fnd |              224.56 |                      |                        |                     |                  |
-| **Total & Reserve**     |        **~3044.56** |                      |                        |                     |                  |
-
-Waiting for
-
-| company    | amount | last contacted |
-|------------|--------|----------------|
-| Babbel     |    200 | 15 January     |
-| Soundcloud |    360 | 18 January     |
-| Zalando    |    500 | 20 January     |
+| **Total & Reserve**     |         **3164.56** |                      |                        |                     |                  |
