@@ -28,4 +28,5 @@ https://clojurebridge-berlin.github.io/
 - We're using this account: [@clojurebridgeDE](https://twitter.com/clojurebridgeDE)
 
 ### Mail  
-Fell welcome to send us as mail: clojurebridge.berlin@gmail.com
+Feel welcome to send us as mail: clojurebridge.berlin@gmail.com
+
