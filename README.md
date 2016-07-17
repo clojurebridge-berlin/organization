@@ -13,9 +13,10 @@ All information about our past events can be found in our [fact books](https://g
 ### Past Events
 - [10. & 11. July 2015](http://www.clojurebridge.org/events/2015-07-10-berlin)
 - [22 & 23 January 2016](http://www.clojurebridge.org/events/2016-01-22-berlin)
+- [17 & 18 June 2016](http://www.clojurebridge.org/events/2016-06-17-berlin)
 
 ### Upcoming Event
-- [17 & 18 June 2016](http://www.clojurebridge.org/events/2016-06-17-berlin)
+- November 2016
 
 ---
 
